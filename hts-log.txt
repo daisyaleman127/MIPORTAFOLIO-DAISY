@@ -1,0 +1,17 @@
+HTTrack3.51-0 launched on Mon, 09 Nov 2026 11:18:02 at https://architecture-interior-eight.vercel.app/ +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "es, en, *" https://architecture-interior-eight.vercel.app/ -O1 C:\Users\145\Desktop\MIPORTAFOLIODAISY +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:18:37	Error: 	"Not Found" (404) at link https://architecture-interior-eight.vercel.app/assets/images/emma.jpeg (from https://architecture-interior-eight.vercel.app/)
+11:18:46	Error: 	"Not Found" (404) at link https://architecture-interior-eight.vercel.app/assets/css/assets/images/project.jpeg (from https://architecture-interior-eight.vercel.app/assets/css/style.css)
+11:18:47	Error: 	"Not Found" (404) at link https://architecture-interior-eight.vercel.app/portfolio (from https://architecture-interior-eight.vercel.app/design)
+11:18:47	Error: 	"Not Found" (404) at link https://architecture-interior-eight.vercel.app/assets/images/david.jpeg0 (from https://architecture-interior-eight.vercel.app/space-planning)
+11:18:51	Error: 	"Not Found" (404) at link https://architecture-interior-eight.vercel.app/THREE.SceneUtils has been moved to /examples/jsm/utils/SceneUtils.js (from https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js)
+11:18:51	Error: 	"Not Found" (404) at link https://architecture-interior-eight.vercel.app/THREE.LensFlare has been moved to /examples/jsm/objects/Lensflare.js (from https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js)
+
+HTTrack Website Copier/3.51-0 mirror complete in 49 seconds : 98 links scanned, 90 files written (9886744 bytes overall) [8139320 bytes received at 166108 bytes/sec], 2842215 bytes transferred using HTTP compression in 38 files, ratio 28%, 1.2 requests per connection
+(6 errors, 0 warnings, 0 messages)
